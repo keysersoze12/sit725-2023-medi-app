@@ -61,5 +61,5 @@ The project follows a standard MVC (Model-View-Controller) architecture:
 
 - Adithya Krishnamurthy (s223859001@deakin.edu.au)
 - Rohit Radhakrishnan (s223421403@deakin.edu.au)
-- lbin Benny Thomas (s224004077@deakin.edu.au)
+- Albin Benny Thomas (s224004077@deakin.edu.au)
 - Venkata Subramanyam Javvaji (s224103094@deakin.edu.au)
